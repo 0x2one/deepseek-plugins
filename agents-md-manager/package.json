@@ -2,6 +2,7 @@
   "name": "@local/agents-md-manager",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "Manage the Harness rule files from the Web UI: the global ~/.dsh/AGENTS.md and each project's AGENTS.md, with in-place editing.",
   "exports": {

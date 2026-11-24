@@ -2,6 +2,7 @@
   "name": "@local/browser-bookmarks",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "Browser bookmarks for the Harness Web UI: categories, import from local browsers, and opening in the system browser, one browser profile, or the in-app browser.",
   "exports": {

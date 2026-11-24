@@ -2,6 +2,7 @@
   "name": "@local/sidebar-collapse-all",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "Adds a one-click Collapse-all control beside the sidebar Workspace title.",
   "exports": {
