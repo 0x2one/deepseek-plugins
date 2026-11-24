@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Recolher todos os espaços de trabalho",
+    "description": "Acrescenta um controlo de um clique ao grupo de botões à direita do título «Espaços de trabalho» da barra lateral. Recolhe de uma vez todos os grupos de espaços de trabalho expandidos (incluindo «Sem grupo»), fica esbatido enquanto nada está expandido e oculta-se com as ações de cabeçalho do anfitrião na barra recolhida e durante a pesquisa."
+  }
+}

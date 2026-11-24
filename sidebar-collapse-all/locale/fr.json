@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Réduire tous les espaces de travail",
+    "description": "Ajoute un contrôle en un clic au groupe de boutons à droite du titre « Espaces de travail » de la barre latérale. Il réduit d'un coup tous les groupes d'espaces de travail déployés (y compris « Non groupés »), s'affiche en grisé quand aucun ne l'est, et se masque avec les actions d'en-tête de l'hôte dans le rail réduit et pendant la recherche."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Behavior rules",
+    "description": "One place for the rules DeepSeek Harness follows: edit the global ~/.dsh/AGENTS.md and each project's AGENTS.md, with unsaved-change tracking and overwrite protection.",
+    "detail": "docs/DETAIL.md"
+  }
+}

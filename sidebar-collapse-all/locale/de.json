@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Alle Arbeitsbereiche einklappen",
+    "description": "Fügt der Schaltflächengruppe rechts vom Titel „Arbeitsbereiche“ in der Seitenleiste ein Ein-Klick-Bedienelement hinzu. Es klappt alle aufgeklappten Arbeitsbereichsgruppen (einschließlich „Nicht gruppiert“) auf einmal ein, erscheint gedimmt, solange nichts aufgeklappt ist, und verschwindet mit den Kopfzeilenaktionen des Hosts in der eingeklappten Leiste und während der Suche."
+  }
+}

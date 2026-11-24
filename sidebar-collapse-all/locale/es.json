@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Contraer todos los espacios de trabajo",
+    "description": "Añade un control de un clic al grupo de botones a la derecha del título «Espacios de trabajo» de la barra lateral. Contrae a la vez todos los grupos de espacios de trabajo desplegados (incluido «Sin agrupar»), aparece atenuado cuando no hay ninguno desplegado y se oculta con las acciones de cabecera del host en el carril contraído y durante la búsqueda."
+  }
+}

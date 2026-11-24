@@ -1,0 +1,3 @@
+- insert:
+    - id: browser-bookmarks
+      name: '@local/browser-bookmarks'

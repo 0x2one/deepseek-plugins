@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "行为规则",
+    "description": "统一管理 DeepSeek Harness 遵循的规则：编辑全局规则 ~/.dsh/AGENTS.md 与各项目的 AGENTS.md，支持未保存提示与覆盖保护。",
+    "detail": "docs/DETAIL.md"
+  }
+}

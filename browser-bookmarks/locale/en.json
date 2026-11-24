@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Browser bookmarks",
+    "description": "Manages your browsers' bookmarks in categories, imports them from the browsers installed on this machine, and opens them in the default browser, a specific browser profile, or the in-app browser."
+  }
+}

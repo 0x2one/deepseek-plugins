@@ -1,0 +1,3 @@
+- insert:
+    - id: sidebar-collapse-all
+      name: '@local/sidebar-collapse-all'

@@ -1,0 +1,3 @@
+- insert:
+    - id: agents-md-manager
+      name: '@local/agents-md-manager'
