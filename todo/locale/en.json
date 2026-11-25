@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Tasks",
+    "description": "A private todo board in the left sidebar: To do, In progress, and Done columns, drag ordering, due dates, priorities, tags, repeating tasks, and due reminders. Data stays in a local JSON file and is never visible to the agent.",
+    "detail": "docs/DETAIL.en.md"
+  }
+}

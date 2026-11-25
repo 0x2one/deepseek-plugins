@@ -1,0 +1,7 @@
+- insert:
+    - id: todo
+      name: '@local/todo'
+      config:
+        reminderLeadMinutes: 0
+        donePreviewLimit: 50
+        snapshotKeep: 10
