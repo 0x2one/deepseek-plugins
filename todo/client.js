@@ -20,9 +20,9 @@ window.__ModuleLoader__.load({
     /* ------------------------------------------------------------------ copy */
 
     const zh = {
-      panel: '待办',
-      commandDescription: '打开待办看板',
-      title: '待办',
+      panel: '代办事项',
+      commandDescription: '打开代办事项看板',
+      title: '代办事项',
       stats: '{open} 项未完成 · 今天到期 {today} 项 · 已逾期 {overdue} 项',
       statsPlain: '{open} 项未完成',
       search: '搜索标题或备注',
