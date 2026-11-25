@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "Collapse all workspaces",
-    "description": "Adds a one-click control to the button group at the right of the sidebar Workspace title. It collapses every expanded workspace group (including Ungrouped) at once, and dims its icon while nothing is expanded. It hides with the host's own header actions in the collapsed rail and during search, and does not appear in the flat session list, which has no groups."
+    "description": "Adds a one-click control to the button group at the right of the sidebar Workspace title. It collapses every expanded workspace group (including Ungrouped) at once while workspaces with a running session, or the one holding the current session, stay expanded; those folded rows show a pulsing running dot, plus a count when several sessions run, and the mark is hidden while the group is expanded. The icon dims when there is nothing left to collapse, and the control hides with the host's own header actions in the collapsed rail, during search, and in the flat session list."
   }
 }
